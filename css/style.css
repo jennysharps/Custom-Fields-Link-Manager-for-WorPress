@@ -1,0 +1,28 @@
+.column-count {
+	width: 50px;
+	font-weight: strong;
+	position: relative;
+	right: 0;
+}
+
+.jls-full-text {
+	padding: 10px;
+	background: #EBEBEB;
+	font-size: 11px;
+}
+
+.jls-full-text a {
+	text-decoration: underline;
+}
+
+.redtext {
+	color: red;
+}
+
+.jls-padding {
+	padding-right: 10px;
+}
+
+.redirect {
+	color: #009900;
+}
